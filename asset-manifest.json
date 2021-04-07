@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/game-of-fizz-buzz/static/css/main.871f6ca6.chunk.css",
+    "main.js": "/game-of-fizz-buzz/static/js/main.7171d36c.chunk.js",
+    "main.js.map": "/game-of-fizz-buzz/static/js/main.7171d36c.chunk.js.map",
+    "runtime-main.js": "/game-of-fizz-buzz/static/js/runtime-main.40b029c3.js",
+    "runtime-main.js.map": "/game-of-fizz-buzz/static/js/runtime-main.40b029c3.js.map",
+    "static/js/2.76c2a25a.chunk.js": "/game-of-fizz-buzz/static/js/2.76c2a25a.chunk.js",
+    "static/js/2.76c2a25a.chunk.js.map": "/game-of-fizz-buzz/static/js/2.76c2a25a.chunk.js.map",
+    "static/js/3.5a125e99.chunk.js": "/game-of-fizz-buzz/static/js/3.5a125e99.chunk.js",
+    "static/js/3.5a125e99.chunk.js.map": "/game-of-fizz-buzz/static/js/3.5a125e99.chunk.js.map",
+    "index.html": "/game-of-fizz-buzz/index.html",
+    "static/css/main.871f6ca6.chunk.css.map": "/game-of-fizz-buzz/static/css/main.871f6ca6.chunk.css.map",
+    "static/js/2.76c2a25a.chunk.js.LICENSE.txt": "/game-of-fizz-buzz/static/js/2.76c2a25a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40b029c3.js",
+    "static/js/2.76c2a25a.chunk.js",
+    "static/css/main.871f6ca6.chunk.css",
+    "static/js/main.7171d36c.chunk.js"
+  ]
+}
